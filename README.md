@@ -2,7 +2,7 @@
 
 ## 📖 Project Overview
 
-**Glamify** is a proposed online fashion shopping platform designed to revolutionize the way users interact with fashion brands and products. Conceived by Mia Anderson and Ethan Parker, Glamify blends **fashion expertise** with **cutting-edge technology** to deliver a personalized, immersive shopping experience.
+**Glamify** is a proposed online fashion shopping platform designed to revolutionize the way users interact with fashion brands and products. Conceived by Mia Anderson and Ethan Parker, Glamify blends fashion expertise with cutting-edge technology to deliver a personalized, immersive shopping experience.
 
 The platform aims to:
 - Provide **personalized recommendations** using AI algorithms.
@@ -38,6 +38,8 @@ Glamify addresses several pain points in the current online fashion industry:
 
 - **Community & Feedback Loop**  
   Glamify encourages user reviews, ratings, and feedback, creating a continuous improvement cycle that benefits both consumers and businesses.
+
+  View **Full Analysis**: [here](https://github.com/Lexi-Nguyen/BPMN-BusinessAnalysis-Project/blob/2c77f845aa2f34255c59c00ca38052af023ef260/BPMN%20Report.docx)
 
 ---
 
